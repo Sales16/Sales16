@@ -26,7 +26,7 @@
 
 ---
 
-### 📈 Contribuições Recentes
+### 📈 Linguagens Mais Utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sales16&layout=compact&theme=radical)
 
