@@ -1,12 +1,16 @@
 # 👋 Hello, I'm Eduardo Sales da Silva
 
+[Portifólio](https://Sales16.github.io/portifolio/)
+
 ### 🚀 Desenvolvedor de Software | Analista de TI
 
 🔭 Atualmente trabalhando como desenvolvedor e analista de TI na **Digital Factory**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **CEUB**  
 💻 Foco em desenvolvimento com **Python**, **PHP**, **C# .NET** e **VBA**  
 🌱 Sempre aprendendo e aprimorando habilidades em novas tecnologias e frameworks  
-🌟 Atualmente estou trabalhando em um projeto pessoal chamado [**Date Randomizer**](http://dates.alwaysdata.net). Um sorteador de dates que ajuda a escolher ideias de encontros de forma divertida e dinâmica.
+🌟 Atualmente estou estudando para a certificação GitHub Foudantions.
+💼 Confira meu portfólio completo de projetos [clicando aqui!](https://Sales16.github.io/portifolio/).
+
 
 ---
 
