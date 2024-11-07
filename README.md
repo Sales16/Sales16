@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Eduardo Sales da Silva
 
-[Portifólio](https://Sales16.github.io/portifolio/)
-
 ### 🚀 Desenvolvedor de Software | Analista de TI
 
 🔭 Atualmente trabalhando como desenvolvedor e analista de TI na **Digital Factory**  
@@ -9,6 +7,7 @@
 💻 Foco em desenvolvimento com **Python**, **PHP**, **C# .NET** e **VBA**  
 🌱 Sempre aprendendo e aprimorando habilidades em novas tecnologias e frameworks  
 🌟 Atualmente estou estudando para a certificação GitHub Foudantions.
+
 💼 Confira meu portfólio completo de projetos [clicando aqui!](https://Sales16.github.io/portifolio/).
 
 
