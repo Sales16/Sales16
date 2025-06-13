@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Eduardo Sales da Silva
 
-### 🚀 Desenvolvedor de Software | Analista de TI
+### 🚀 Desenvolvedor de Software 
 
-🔭 Atualmente trabalhando como desenvolvedor e analista de TI na **Digital Factory**  
+🔭 Atualmente trabalhando como desenvolvedor fullstack **Lacuna Software**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **CEUB**  
-💻 Foco em desenvolvimento com **Python**, **PHP**, **C# .NET** e **VBA**  
+💻 Foco em desenvolvimento com **C#**, **.NET**, **Angular e Python**  
 🌱 Sempre aprendendo e aprimorando habilidades em novas tecnologias e frameworks  
-🌟 Atualmente estou estudando para a certificação GitHub Foudantions.
+<!-- 🌟 Atualmente estou estudando para a certificação GitHub Foudantions. -->
 
 💼 Confira meu portfólio completo de projetos [clicando aqui!](https://Sales16.github.io/portifolio/).
 
@@ -16,9 +16,9 @@
 ### 🌟 Tecnologias & Habilidades
 
 - **Linguagens:** Python, PHP, JavaScript, C# .NET, VBA
-- **Web:** HTML5, CSS3, WordPress
-- **Banco de Dados:** MySQL, MariaDB
-- **Ferramentas:** Git, GitHub, Visual Studio Code, PyCharm
+- **Web:** HTML5, CSS3, WordPress, TypeScript, Angular
+- **Banco de Dados:** MySQL, MariaDB, SQL Server
+- **Ferramentas:** Git, GitHub, Visual Studio Code, Visual Studio, PyCharm, Postman
 - **Infraestrutura:** Hardware, Redes, Suporte Técnico
 
 ---
